@@ -5,6 +5,7 @@ An interactive Excel BI tool using weighted risk scoring to predict employee att
 ## 📊 Project Overview
 This project transforms a raw dataset of 1,470 employees into a predictive BI tool. Using a weighted risk scoring model, it identifies high-risk employees before they leave, allowing HR to take proactive retention measures.
 
+![](Dashboard/dashboard_preview.png)
 ## 🚀 Key Findings & Strategic Insights
 
 Through statistical correlation analysis ($r$) of 1,470 employee records, the following drivers were identified as the primary causes of attrition:
